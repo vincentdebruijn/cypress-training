@@ -4,7 +4,7 @@ description: A page to test
 
 # Test page
 
-## Getting Super Powers
+## Getting started
 
 Becoming a super hero is a fairly straight forward process:
 
